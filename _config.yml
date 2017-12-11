@@ -1,0 +1,8 @@
+title: Joe Zhang
+description: Joe's homepage
+google_analytics: UA-34425776-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
